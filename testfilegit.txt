@@ -1,1 +1,2 @@
 test git repo
+Second line added
